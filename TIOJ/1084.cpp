@@ -1,3 +1,6 @@
+//參考網址
+//https://yuihuang.com/tioj-1084/
+
 #include <bits/stdc++.h>
 #define QIO ios_base::sync_with_stdio(false); cin.tie(0);
 using namespace std;
