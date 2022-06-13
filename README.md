@@ -1,12 +1,2 @@
-## Problem_solution
-TIOJ
-  https://tioj.ck.tp.edu.tw/
-  
-Zerojudge
-  https://zerojudge.tw/
-  
-Codeforces
-  https://codeforces.com/
-  
-Zerojudge.CCHS
-  https://zerojudge.cchs.chc.edu.tw/
+## 詳見Wiki介紹喔
+https://github.com/ed-hsuran/Problem_solution/wiki/%E9%A6%96%E9%A0%81
