@@ -32,7 +32,6 @@ void dfs(int x){
 }
 
 int main(){
-	
 	while (cin >> m){
 		if (m == 0) break;
 		while (m--){
@@ -41,7 +40,7 @@ int main(){
 			mp[j].insert(i);
 		}
 		int first = 1;
-		for (int i=1; i<501; i++){
+		for (int i=1; i<505; i++){
 			if (mp[i].size() & 1){
 				first = i;
 				break;
