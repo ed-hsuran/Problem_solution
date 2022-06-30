@@ -17,9 +17,8 @@ unordered_map <int, int> mp;
 
 void init(){
 	for (int i=0; i<n; i++) cin >> arr[i], v.pb(arr[i]);
-	sort(v.begin(), v.end()); //排序
-	v.resize(distance(v.begin(), unique(v.begin(), v.end()))); //扣重複 + 重塑大小
-	L = v.size();
+	sort(v.begin(), v.end()); //排序 
+	L = distance(v.begin(), unique(v.begin(), v.end())); //扣重複 + 重塑大小
 }
 
 void push(int x){
